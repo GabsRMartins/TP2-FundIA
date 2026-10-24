@@ -1,0 +1,10 @@
+instancia,A,B,mediana_A,mediana_B,p,A12
+pequena,vizinhancas,variantes,1875.0,1875.0,1.0,0.5
+pequena,vizinhancas,experimentos,1875.0,1875.0,1.0,0.5
+pequena,variantes,experimentos,1875.0,1875.0,1.0,0.5
+media,vizinhancas,variantes,17072.0,16929.0,0.6520029782842175,0.466
+media,vizinhancas,experimentos,17072.0,17725.0,0.017295795962682603,0.679
+media,variantes,experimentos,16929.0,17725.0,0.0058261201529153294,0.708
+grande,vizinhancas,variantes,82264.0,80976.0,0.8501067391385259,0.47
+grande,vizinhancas,experimentos,82264.0,82858.5,0.7913367801006604,0.54
+grande,variantes,experimentos,80976.0,82858.5,1.0,0.5

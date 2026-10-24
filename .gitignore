@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# saidas do teste de fumaca (--rapido); os resultados completos sao versionados
+resultados/*_rapido*

@@ -1,0 +1,10 @@
+instancia,A,B,mediana_A,mediana_B,U,p,A12,p_holm,conclusao
+pequena,GD-first/swap,GD-first/insercao,1875.0,1875.0,450.0,1.0,0.5,1.0,sem diferenca significativa
+pequena,GD-first/swap,GD-first/2opt,1875.0,1875.0,450.0,1.0,0.5,1.0,sem diferenca significativa
+pequena,GD-first/insercao,GD-first/2opt,1875.0,1875.0,450.0,1.0,0.5,1.0,sem diferenca significativa
+media,GD-first/swap,GD-first/insercao,24590.0,17072.0,900.0,3.0179667984904466e-11,0.0,9.05390039547134e-11,GD-first/insercao melhor
+media,GD-first/swap,GD-first/2opt,24590.0,18492.5,900.0,3.019859359162157e-11,0.0,9.05390039547134e-11,GD-first/2opt melhor
+media,GD-first/insercao,GD-first/2opt,17072.0,18492.5,89.0,9.828882405822592e-08,0.901,9.828882405822592e-08,GD-first/insercao melhor
+grande,GD-first/swap,GD-first/insercao,153359.5,82264.0,100.0,0.00018267179110955002,0.0,0.0005480153733286501,GD-first/insercao melhor
+grande,GD-first/swap,GD-first/2opt,153359.5,90371.0,100.0,0.00018267179110955002,0.0,0.0005480153733286501,GD-first/2opt melhor
+grande,GD-first/insercao,GD-first/2opt,82264.0,90371.0,8.0,0.0017062493689195964,0.92,0.0017062493689195964,GD-first/insercao melhor

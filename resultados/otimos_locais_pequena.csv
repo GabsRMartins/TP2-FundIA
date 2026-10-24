@@ -1,0 +1,5 @@
+experimento,rotulo,descidas_completas,otimos_distintos,otimos_distintos_globais,descidas_no_otimo_%,pior_otimo_local
+experimentos,GD,4103,19,1,14.53,2956
+variantes,GD-best,1451,19,1,15.23,2956
+variantes,GD-first,4127,19,1,13.98,2956
+variantes,GD-aleatorio,4584,468,1,8.31,3733
